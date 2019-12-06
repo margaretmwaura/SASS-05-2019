@@ -1,0 +1,54 @@
+#container_body
+{
+	
+	&_top
+	{
+
+	}
+	&_display
+	{
+
+		background: -webkit-linear-gradient(left, pink , blue);
+		height: 600px;
+
+		&_about
+		{
+			padding-top: 150px;
+		}
+	}
+
+	&_form
+	{
+		margin-top: 20px;
+		form{
+			margin-top: 0px;
+			border:1px solid indianred;
+			padding: 10px;
+			text-align: center;
+			button
+			{
+				background-color: indianred;
+				text-align: center;
+				color: bisque;
+
+			}
+
+		   }
+
+		.table
+		{
+			margin-top: 50px;
+		}
+
+		&_red
+		{
+			color: indianred;
+			text-decoration: underline;
+			font-style: italic;
+		}
+
+
+
+	}
+
+}

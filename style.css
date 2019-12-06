@@ -1,0 +1,24 @@
+#container_body_display {
+  background: -webkit-linear-gradient(left, pink, blue);
+  height: 600px; }
+  #container_body_display_about {
+    padding-top: 150px; }
+#container_body_form {
+  margin-top: 20px; }
+  #container_body_form form {
+    margin-top: 0px;
+    border: 1px solid indianred;
+    padding: 10px;
+    text-align: center; }
+    #container_body_form form button {
+      background-color: indianred;
+      text-align: center;
+      color: bisque; }
+  #container_body_form .table {
+    margin-top: 50px; }
+  #container_body_form_red {
+    color: indianred;
+    text-decoration: underline;
+    font-style: italic; }
+
+/*# sourceMappingURL=style.css.map */
